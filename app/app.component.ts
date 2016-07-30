@@ -10,6 +10,9 @@ import { Component } from '@angular/core';
             <label>name: </label>
             <input [(ngModel)]="hero.name" placeholder="name">
         </div>
+        <div>
+            <h3>@leojim06</h3>
+        </div>
         `
     
 })
