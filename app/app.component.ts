@@ -3,7 +3,6 @@ import { ROUTER_DIRECTIVES } from '@angular/router';
 
 import { HeroService } from './hero.service';
 
-
 @Component({
     selector: 'my-app',
     template: `
